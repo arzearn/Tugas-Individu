@@ -214,14 +214,11 @@ sr.reveal(`.home__data, .home__img-bg, .home__social,
 })
 
 sr.reveal(`.story__images, 
-           .subscribe__description,
-           .testimonial__card`,{
+           .subscribe__description`,{
     origin: 'left',
 })
 
 sr.reveal(`.products__container,
-            .swiper-button-next,
-            .swiper-button-prev,
             .newsletter__bg,
             .footer`,{
     origin: 'bottom',
