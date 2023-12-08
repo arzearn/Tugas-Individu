@@ -791,7 +791,8 @@ body.dark-theme {
 }
 
 .newsletter__thankyou {
-  color: hsl(0, 0%, 15%);
+  color: hsl(0, 0%, 20%);
+  font-size: var(--h2-font-size);
 }
 
 /*=============== FOOTER ===============*/
