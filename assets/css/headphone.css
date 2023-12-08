@@ -515,6 +515,14 @@ img {
   margin-bottom: var(--mb-2);
 }
 
+.footer__thankyou{
+  display: flex;
+  padding-bottom: 2rem;
+  color: var(--white-color);
+  font-weight: var(--font-medium);
+  font-size: 1.2rem;
+}
+
 .footer__input {
   background-color: var(--container-color);
   width: 90%;
